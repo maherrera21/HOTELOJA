@@ -1,0 +1,22 @@
+body {
+	background-color: #e5dfd4;
+
+}
+
+header {
+	background-color: #c7b89f;
+}
+.ing {
+	text-align: center;
+}
+#hoteles_footer {
+		width: 900px;
+		text-align: center;
+		margin: 0 auto;
+		padding: 40px 30px 20px;
+		
+}	
+
+#hoteles_footer a { color: #000 }
+
+.input{ width:15em;}
